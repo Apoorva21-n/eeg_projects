@@ -271,7 +271,7 @@ class CortexClient:
                 # Active command (Push, Left, Right)
                 print(f"Detected: {action.upper()} ({int(power*100)}%)")
                 self.rover.send_command(action, action)
-
+#
 if __name__ == "__main__":
     client = CortexClient()
     try:
