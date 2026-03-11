@@ -70,6 +70,3 @@ The microcontroller then actuates motors or other connected hardware.
 
 ---
 
-## Author
-**Simran Shaikh**  
-Embedded & Intelligent Systems | Edge AI | Brain-Computer Interface
