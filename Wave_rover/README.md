@@ -37,4 +37,4 @@ Follow these steps exactly to control your robot with your brainwaves.
 ### ⚠️ Why it might "not work":
 1.  **WiFi**: If you are not on the `WAVE_ROVER` WiFi, the command will fail.
 2.  **Detection Power**: If the Emotiv App doesn't see your thought as "confident", the script won't send the command. Train more!
-3.  **Approve Access**: The FIRST time you run the script, check your Emotiv App—it may ask you to click **"Approve"** to allow the script to connect.
+3.  **Approve Access**: The FIRST time you run the script, check your Emotiv App—it may ask you to click **"Approve"** to allow the script to connect
